@@ -5,7 +5,7 @@
 # make an UI to select for a particular time 
 # Generalize for ability to plan for multiple days
 
-# NOTE Someti
+# NOTE Sometimes the website brings up a popup and the program does not work (i dont know why it happens)
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
